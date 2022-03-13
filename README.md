@@ -1,5 +1,8 @@
 ### Hi Folks I am Pram.. Welcome to my Profile
 
+
+
+
 About Me:
 -📮 I'm a research associate currently associated with Indian School of Business 
 -📝 My interest is in Marketing powered by Data
